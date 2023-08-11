@@ -78,7 +78,7 @@ NYC Movie times App/
 1. Clone this repository to your local machine:
 
 ```bash
-git clone '''
+git clone git@github.com:P-Draper/NYC-Movie-Times-App.git
 ```
 
 2. Navigate to the project directory:
