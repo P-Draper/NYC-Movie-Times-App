@@ -11,6 +11,9 @@
 <h1 align="center"><b>NYC Movie times App</b></h1>
 <h4 align="center">A web application built using BeautifulSoup and Custome Tkinter for viewing up to date movie times from independant theaters in the NYC area. This interface allows users to view scraped data from multiple sites in one place. </h4>
 
+<p align="center">
+    <img src="./NYCMovieTimes.png" alt="Project Banner" width=60% height=60%/>
+</p>
 
 ## Table of Contents
 
