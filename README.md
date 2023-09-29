@@ -4,7 +4,6 @@
     <br>
     <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
     <br>
-    <a href=""><img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" /></a>
     <a href=""><img src="https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-1212-bs.jpg" /></a>
 
 </p>
